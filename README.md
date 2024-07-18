@@ -3,10 +3,11 @@ Welcome to my Fun Python Project: Tic-Tac-Toe
 Essentaily its a Python code where you can play Tic-Tac-toe virtually using the terminal. Players are listed as X and O (2-player game).
 
 Game is played like this:
+
 7|8|9
-
+-----
 4|5|6
-
+-----
 1|2|3
 
 The number is what you will type from the keyboard so X or O will be registered.
