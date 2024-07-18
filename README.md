@@ -4,7 +4,9 @@ Essentaily its a Python code where you can play Tic-Tac-toe virtually using the 
 
 Game is played like this:
 7|8|9
+
 4|5|6
+
 1|2|3
 
 The number is what you will type from the keyboard so X or O will be registered.
